@@ -1,5 +1,5 @@
 # eWARUNG MADURA
-# Laporan Praktikum 13: Optimasi Penampilan Data dengan Pagination
+# Laporan Praktikum 7-15:
 
 ## 1. Identitas Sistem
 * **Nama Sistem:** MADURA-STOCK (Integrated Inventory Management System)
